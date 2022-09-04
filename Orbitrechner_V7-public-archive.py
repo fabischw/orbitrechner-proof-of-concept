@@ -5345,7 +5345,7 @@ def morefunctions():
 
         #Funktion um öffentlich zugängliche Varianten des Orbitrechners einzusehen
         def open_public_distros():
-            dbx_link = "https://www.dropbox.com/sh/2je87yabv4nu29f/AACfN-0IG4PJI3hCwjYSaJVKa?dl=0"
+            dbx_link = ""
             try:
                 webbrowser.get(chrome_path).open_new(dbx_link)
             except:
