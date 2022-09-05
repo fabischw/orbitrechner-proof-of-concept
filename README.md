@@ -1,7 +1,6 @@
-[EN] This is a private project I've started to learn coding in python, it's more a proof-of-concept than an actual project
+[EN] This is a private project I've started to learn coding in python, it's more a proof-of-concept than an actual project                                                             
 [DE] Dieses Projekt habe ich gestartet, um Programmieren mit Python zu lernen, ein großer Teil des Inhats ist daher rein experimentell.
 
-THIS IS A PRIVATE REPOSITORY, SHOULD YOU BE ABLE TO SEE THIS NONETHELESS, PLEASE CONTACT ME IMMEDIATLY
 
 This is a proof-of-concept that I've worked on for a few months, slowly expanding it as my programming knowledge increased
 
